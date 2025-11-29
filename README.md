@@ -77,7 +77,7 @@ However, correlation does not imply causation; other market factors may also inf
 
 ## 📁 Repository Structure
 - [Data Analysis](Analysis/)
-- [Data Interpretation](Data-Interpretation/)
+- [Data Interpretation](Data-interpretation/)
 - [Project Presentation](Presentation/)
 - [README.md](README.md)
 
